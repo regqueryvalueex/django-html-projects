@@ -1,0 +1,1 @@
+In directory projects copy `example` dir and rename.
