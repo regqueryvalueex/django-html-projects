@@ -1,5 +1,5 @@
 decorator==4.0.6
-Django==1.9.1
+Django==1.11.28
 django-debug-toolbar==1.4
 ipython==4.0.2
 ipython-genutils==0.1.0
